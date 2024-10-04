@@ -1,0 +1,1 @@
+Previously, I analyzed the business performance of Dilan's Travel Guide using SQL. Now, I have made predictions regarding the number of new readers and revenue for the end of the next month (the 120th day) using Python.
